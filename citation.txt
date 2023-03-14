@@ -1,0 +1,6 @@
+@inproceedings{REPO-047,
+    author = "Wang, Chunling and Wang, Dandan and Chai, Yupeng and Wang, Chuanwen and Sun, Diansen",
+    booktitle = "Mass Storage Systems and Technologies (MSST)",
+    title = "{{Larger Cheaper But Faster: SSD-SMR Hybrid Storage Boosted by a New SMR-oriented Cache Framework}}",
+    year = "2017"
+}
